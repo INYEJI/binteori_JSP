@@ -3,16 +3,6 @@
 	<name>web-study-01</name>
 	<comment></comment>
 	<projects>
-		<project>Servers</project>
-		<project>web-study-02</project>
-		<project>web-study-03</project>
-		<project>web-study-04</project>
-		<project>web-study-05</project>
-		<project>web-study-07</project>
-		<project>web-study-08</project>
-		<project>web-study-08-ex01</project>
-		<project>web-study-08-mysql</project>
-		<project>web-study-09</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
